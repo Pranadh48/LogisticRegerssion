@@ -16,7 +16,7 @@ from sklearn.metrics import (
 # LOAD DATA
 # -----------------------------
 df = pd.read_csv(
-    r"day20\WA_Fn-UseC_-Telco-Customer-Churn.csv"
+    r"WA_Fn-UseC_-Telco-Customer-Churn.csv"
 )
 
 # -----------------------------
